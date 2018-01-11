@@ -1,0 +1,26 @@
+{
+  "name": "chatcamp",
+  "version": "0.1.0",
+  "description": "ChatCamp JavaScript SDK",
+  "main": "ChatCamp.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChatCamp/ChatCamp-JavaScript-SDK"
+  },
+  "keywords": [
+    "chatcamp",
+    "chatcamp.io",
+    "messaging",
+    "chat",
+    "js"
+  ],
+  "author": "ChatCamp <support@chatcamp.io>",
+  "homepage": "https://chatcamp.io",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/ChatCamp/ChatCamp-JavaScript-SDK/issues"
+  }
+}
