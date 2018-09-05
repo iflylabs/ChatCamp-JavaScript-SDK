@@ -1,6 +1,9 @@
 Changelog
 =========
 
+## v0.1.33 (Sep 3, 2018)
+ * Added `deleteUserPushToken` and `deleteAllUserPushTokens` in `ChatCamp`.
+
 ## v0.1.32 (Aug 16, 2018)
  * Added `TotalCountFilterParams` class.
  * Added `onTotalUnreadMessageCount` and `onTotalUnreadGroupChannelCount` in `UserListener`.
