@@ -1,6 +1,9 @@
 Changelog
 =========
 
+## v0.1.34 (Sep 5, 2018)
+ * Bug fix - Url encoding.
+
 ## v0.1.33 (Sep 3, 2018)
  * Added `deleteUserPushToken` and `deleteAllUserPushTokens` in `ChatCamp`.
 
