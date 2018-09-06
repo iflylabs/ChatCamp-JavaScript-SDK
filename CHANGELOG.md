@@ -1,6 +1,9 @@
 Changelog
 =========
 
+## v0.1.35 (Sep 6, 2018)
+ * Bug fix - Url encoding.
+
 ## v0.1.34 (Sep 5, 2018)
  * Bug fix - Url encoding.
 
