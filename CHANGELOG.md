@@ -1,6 +1,9 @@
 Changelog
 =========
 
+## v0.1.36 (Sep 11, 2018)
+ * Added `updateMetadata` in `BaseChannel`.
+
 ## v0.1.35 (Sep 6, 2018)
  * Bug fix - Url encoding.
 

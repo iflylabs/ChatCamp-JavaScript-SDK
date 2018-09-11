@@ -1,6 +1,6 @@
 {
   "name": "chatcamp",
-  "version": "0.1.35",
+  "version": "0.1.36",
   "description": "ChatCamp JavaScript SDK",
   "main": "ChatCamp.min.js",
   "scripts": {
