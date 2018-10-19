@@ -1,6 +1,9 @@
 Changelog
 =========
 
+## v0.1.37 (Oct 19, 2018)
+ * Change heartbeat.
+
 ## v0.1.36 (Sep 11, 2018)
  * Added `updateMetadata` in `BaseChannel`.
 
