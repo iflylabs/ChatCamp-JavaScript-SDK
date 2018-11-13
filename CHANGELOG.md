@@ -1,6 +1,12 @@
 Changelog
 =========
 
+## v0.1.38 (Nov 13, 2018)
+ * Added `updateMessage` in `GroupChannel` and `OpenChannel`.
+ * Added `onGroupChannelMessageUpdated` and `onOpenChannelMessageUpdated` in `ChannelListener`.
+ * Added `setSortBy` in `PreviousMessageListQuery`.
+
+
 ## v0.1.37 (Oct 19, 2018)
  * Change heartbeat.
 
