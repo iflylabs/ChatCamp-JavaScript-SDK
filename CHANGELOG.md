@@ -1,6 +1,9 @@
 Changelog
 =========
 
+## v0.1.39 (Nov 15, 2018)
+ * Added `updateUserPushToken` in `ChatCamp`.
+
 ## v0.1.38 (Nov 13, 2018)
  * Added `updateMessage` in `GroupChannel` and `OpenChannel`.
  * Added `onGroupChannelMessageUpdated` and `onOpenChannelMessageUpdated` in `ChannelListener`.
