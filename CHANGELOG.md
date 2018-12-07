@@ -1,6 +1,9 @@
 Changelog
 =========
 
+## v0.1.40 (Dec 7, 2018)
+ * Bug fix - `connect`.
+
 ## v0.1.39 (Nov 15, 2018)
  * Added `updateUserPushToken` in `ChatCamp`.
 
