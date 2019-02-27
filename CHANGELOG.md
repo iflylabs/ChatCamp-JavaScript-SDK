@@ -1,6 +1,9 @@
 Changelog
 =========
 
+## 2.2.1 (Feb 27, 2019)
+ * `myStatus` should have default value in `GroupChannel` class.
+
 ## 2.2.0 (Feb 26, 2019)
  * All `if` prefix to online function in `User` class.
  * `lastMessage` property of `GroupChannel` can be `null`.
