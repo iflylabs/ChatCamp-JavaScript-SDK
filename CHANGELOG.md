@@ -1,6 +1,9 @@
 Changelog
 =========
 
+## 2.2.2 (Mar 13, 2019)
+ * Add `ifFlexible` function in `GroupChannel` class.
+
 ## 2.2.1 (Feb 27, 2019)
  * `myStatus` should have default value in `GroupChannel` class.
 
