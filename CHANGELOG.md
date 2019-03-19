@@ -1,6 +1,9 @@
 Changelog
 =========
 
+## 2.2.3 (Mar 19, 2019)
+ * Add `publicFilter` function in `TotalCountFilterParams` class.
+
 ## 2.2.2 (Mar 13, 2019)
  * Add `ifFlexible` function in `GroupChannel` class.
 
