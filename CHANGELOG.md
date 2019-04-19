@@ -1,6 +1,9 @@
 Changelog
 =========
 
+## 2.3.0 (Apr 19, 2019)
+ * Few SDK optimizations.
+
 ## 2.2.3 (Mar 19, 2019)
  * Add `publicFilter` function in `TotalCountFilterParams` class.
 
