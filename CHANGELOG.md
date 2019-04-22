@@ -1,6 +1,9 @@
 Changelog
 =========
 
+## 2.3.1 (Apr 22, 2019)
+ * Few SDK optimizations.
+
 ## 2.3.0 (Apr 19, 2019)
  * Few SDK optimizations.
 
