@@ -1,6 +1,10 @@
 Changelog
 =========
 
+## 2.3.2 (May 10, 2019)
+ * Added `ifReadOnly` function in `BaseChannel`.
+ * Handle access-levels for anonymous users.
+
 ## 2.3.1 (Apr 22, 2019)
  * Few SDK optimizations.
 
