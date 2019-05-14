@@ -1,6 +1,9 @@
 Changelog
 =========
 
+## 2.3.3 (May 14, 2019)
+ * Added support for displaying internal channel avatars.
+
 ## 2.3.2 (May 10, 2019)
  * Added `ifReadOnly` function in `BaseChannel`.
  * Handle access-levels for anonymous users.
