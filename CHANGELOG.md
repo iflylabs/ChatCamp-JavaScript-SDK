@@ -1,6 +1,9 @@
 Changelog
 =========
 
+## 2.3.4 (June 4, 2019)
+ * Added `getDirectChannelMetadata` in `GroupChannel`.
+
 ## 2.3.3 (May 14, 2019)
  * Added support for displaying internal channel avatars.
 
