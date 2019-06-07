@@ -1,5 +1,7 @@
 Changelog
 =========
+## 2.3.5 (June 4, 2019)
+ * Reconnect fix when session key is invalid.
 
 ## 2.3.4 (June 4, 2019)
  * Added `getDirectChannelMetadata` in `GroupChannel`.
