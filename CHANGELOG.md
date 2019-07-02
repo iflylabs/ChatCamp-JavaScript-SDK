@@ -1,5 +1,8 @@
 Changelog
 =========
+## 2.3.6 (July 2, 2019)
+ * Payment Module.
+
 ## 2.3.5 (June 4, 2019)
  * Reconnect fix when session key is invalid.
 
