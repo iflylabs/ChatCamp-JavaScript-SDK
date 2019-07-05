@@ -1,5 +1,8 @@
 Changelog
 =========
+## 2.3.7 (July 5, 2019)
+ * Payment Tracking.
+
 ## 2.3.6 (July 2, 2019)
  * Payment Module.
 
