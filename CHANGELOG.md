@@ -1,5 +1,8 @@
 Changelog
 =========
+## 2.3.9 (July 5, 2019)
+ * Bug Fix.
+
 ## 2.3.8 (July 5, 2019)
  * Minor Enhancement in Payments.
 
