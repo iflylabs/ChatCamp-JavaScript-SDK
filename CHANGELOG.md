@@ -1,5 +1,8 @@
 Changelog
 =========
+## 2.3.8 (July 5, 2019)
+ * Minor Enhancement in Payments.
+
 ## 2.3.7 (July 5, 2019)
  * Payment Tracking.
 
