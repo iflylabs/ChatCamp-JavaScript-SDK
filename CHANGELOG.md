@@ -1,5 +1,8 @@
 Changelog
 =========
+## 2.4.0 (July 18, 2019)
+ * Total revenue.
+
 ## 2.3.9 (July 5, 2019)
  * Bug Fix.
 
