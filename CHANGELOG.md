@@ -1,5 +1,8 @@
 Changelog
 =========
+## 2.4.1 (July 27, 2019)
+ * Total Online User Count.
+
 ## 2.4.0 (July 18, 2019)
  * Total revenue.
 
