@@ -1,5 +1,8 @@
 Changelog
 =========
+## 2.4.2 (Aug 1, 2019)
+ * Logout Fix.
+
 ## 2.4.1 (July 27, 2019)
  * Total Online User Count.
 
