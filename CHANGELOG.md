@@ -1,5 +1,8 @@
 Changelog
 =========
+## 2.4.3 (Aug 2, 2019)
+ * Add new filter in user list.
+
 ## 2.4.2 (Aug 1, 2019)
  * Logout Fix.
 
