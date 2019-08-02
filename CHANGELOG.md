@@ -1,5 +1,8 @@
 Changelog
 =========
+## 2.4.5 (Aug 2, 2019)
+ * Unread message count fix.
+
 ## 2.4.3 (Aug 2, 2019)
  * Add new filter in user list.
 
