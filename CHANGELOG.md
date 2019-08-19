@@ -1,5 +1,8 @@
 Changelog
 =========
+## 2.4.6 (Aug 19, 2019)
+ * Reconnect fix.
+
 ## 2.4.5 (Aug 2, 2019)
  * Unread message count fix.
 
